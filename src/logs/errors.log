@@ -1,0 +1,47 @@
+http: Someone made a GET request to the endpoint /chat {"timestamp":"2023-09-13T19:19:35.915Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-13T19:20:37.816Z"}
+info: DB connected! {"timestamp":"2023-09-13T19:20:38.435Z"}
+http: Someone made a GET request to the endpoint /chat {"timestamp":"2023-09-13T19:20:38.547Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-13T19:20:50.559Z"}
+info: DB connected! {"timestamp":"2023-09-13T19:20:51.188Z"}
+http: Someone made a GET request to the endpoint /chat {"timestamp":"2023-09-13T19:20:51.201Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-13T19:21:12.674Z"}
+info: DB connected! {"timestamp":"2023-09-13T19:21:13.241Z"}
+info: An user has logged in. {"timestamp":"2023-09-13T19:21:21.851Z"}
+info: The user has been redirected to the view PRODUCTS for being a User. {"timestamp":"2023-09-13T19:21:21.977Z"}
+http: Someone made a GET request to the endpoint /chat {"timestamp":"2023-09-13T19:21:25.879Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-13T19:22:02.169Z"}
+info: DB connected! {"timestamp":"2023-09-13T19:22:02.758Z"}
+http: Someone made a GET request to the endpoint /chat {"timestamp":"2023-09-13T19:22:03.038Z"}
+http: Someone made a GET request to the endpoint /chat {"timestamp":"2023-09-13T19:22:32.397Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-13T19:23:02.146Z"}
+info: DB connected! {"timestamp":"2023-09-13T19:23:02.709Z"}
+http: Someone made a GET request to the endpoint /chat {"timestamp":"2023-09-13T19:23:04.536Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-13T19:23:32.444Z"}
+info: DB connected! {"timestamp":"2023-09-13T19:23:33.019Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-13T19:23:54.707Z"}
+info: DB connected! {"timestamp":"2023-09-13T19:23:55.260Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-13T19:24:13.077Z"}
+info: DB connected! {"timestamp":"2023-09-13T19:24:13.648Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-13T19:24:31.709Z"}
+info: DB connected! {"timestamp":"2023-09-13T19:24:32.336Z"}
+http: Someone made a GET request to the endpoint /chat {"timestamp":"2023-09-13T19:33:22.205Z"}
+http: Someone made a GET request to the endpoint /chat {"timestamp":"2023-09-13T19:38:02.167Z"}
+info: A user has logged out. {"timestamp":"2023-09-13T19:38:45.440Z"}
+info: An user has logged in. {"timestamp":"2023-09-13T19:38:52.645Z"}
+info: The user has been redirected to the view REALTIMEPRODUCTS for being an Administrator. {"timestamp":"2023-09-13T19:38:52.770Z"}
+http: Someone made a DELETE request to the endpoint /api/products/:id {"timestamp":"2023-09-13T19:39:01.627Z"}
+info: A user has logged out. {"timestamp":"2023-09-13T19:40:03.408Z"}
+info: An user has logged in. {"timestamp":"2023-09-13T19:40:06.773Z"}
+info: The user has been redirected to the view PRODUCTS for being a User. {"timestamp":"2023-09-13T19:40:06.900Z"}
+warning: A user tried accessing ADMINISTRATORS AREA and got denied. {"timestamp":"2023-09-13T19:44:14.492Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-13T19:44:48.193Z"}
+info: DB connected! {"timestamp":"2023-09-13T19:44:48.836Z"}
+info: A user has logged out. {"timestamp":"2023-09-13T19:44:49.087Z"}
+info: An user has logged in. {"timestamp":"2023-09-13T19:47:25.961Z"}
+info: The user has been redirected to the view REALTIMEPRODUCTS for being an Administrator. {"timestamp":"2023-09-13T19:47:26.087Z"}
+info: A user has logged out. {"timestamp":"2023-09-13T19:47:44.974Z"}
+info: An user has logged in. {"timestamp":"2023-09-13T19:47:48.315Z"}
+info: The user has been redirected to the view PRODUCTS for being a User. {"timestamp":"2023-09-13T19:47:48.444Z"}
+http: Someone made a GET request to the endpoint /chat {"timestamp":"2023-09-13T19:48:14.910Z"}
+info: A user has logged out. {"timestamp":"2023-09-13T19:48:39.295Z"}
